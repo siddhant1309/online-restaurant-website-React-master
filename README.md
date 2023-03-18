@@ -1,6 +1,4 @@
-# Simple-To-Do-App
-
-This is the output, it has light and dark mode too
+# Restaurant Website using react
 <p align="center">Login Pop-up</p>
 <p align="center">
 <img src="https://github.com/siddhant1309/online-restaurant-website-React-master/blob/bd3b6bf8107ab0894529b3a67721b399f2f7f6f8/images/Login%20popup.png" width="350" title="hover text">
